@@ -1284,7 +1284,7 @@ Elements Styles
       color: #e59285; }
     .block-bg .close__wrap::after {
       content: "\f136";
-      font-family: Material-Design-Iconic-Font;
+      font-family: Arial;
       font-size: 24px;
       position: absolute;
       right: 0;
@@ -1406,7 +1406,7 @@ Elements Styles
   position: relative; }
 .box-menu-content .ppnav .ppmainmenu li.drop .ppmegamenu .item > li.label2 > a::after {
   content: "\f2fb";
-  font-family: Material-Design-Iconic-Font;
+  font-family: Arial;
   font-size: 15px;
   position: absolute;
   right: 0; }
@@ -1517,7 +1517,7 @@ Elements Styles
       color: #e59285; }
     .minicart-content-wrapper .micart__close::after {
       content: "\f136";
-      font-family: Material-Design-Iconic-Font;
+      font-family: Arial;
       font-size: 24px;
       position: absolute;
       right: 0;
@@ -1772,7 +1772,7 @@ Header Styles
     padding-right: 40px; }
     .header__area .menubar a.open_sidebar::after {
       content: "\f197";
-      font-family: "Material-Design-Iconic-Font";
+      font-family: "Arial";
       font-size: 26px;
       position: absolute;
       right: 0;
@@ -2023,7 +2023,7 @@ Header Styles
   position: relative; }
 .mainmenu__nav .meninmenu ul li.label2 > a::after {
   content: "\f2fb";
-  font-family: Material-Design-Iconic-Font;
+  font-family: Arial;
   font-size: 15px;
   position: absolute;
   right: 0; }
